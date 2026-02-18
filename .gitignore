@@ -1,0 +1,8 @@
+ENV_SETUP/
+Offroad_Segmentation_Training_Dataset/
+Offroad_Segmentation_testImages/
+__pycache__/
+*.ipynb_checkpoints
+test_segmentation.py
+train_segmentation.py
+visualze.py

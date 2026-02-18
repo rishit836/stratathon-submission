@@ -1,5 +1,7 @@
 # Off-Road Segmentation Web Application
 
+Presentation (ppt) has been made and can be accessed at this url: https://docs.google.com/presentation/d/1lGZ4dIWJrdphudBtle7-v2RsXqCjXzUEY6a9ynfU93M/edit?usp=sharing
+
 This is a Flask-based web application that uses a deep learning model to perform semantic segmentation on off-road images. It identifies various terrain types such as trees, bushes, grass, rocks, and sky.
 The model is built using a DINOv2 backbone with a custom Enhanced Segmentation Head.
 

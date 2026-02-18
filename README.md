@@ -1,5 +1,4 @@
 # Off-Road Semantic Segmentation with DINOv2
-The Website for testing the model has been deployed on website branch of this repo.
 
 
 A high-performance semantic segmentation pipeline for off-road terrain imagery. The model leverages a **frozen DINOv2 ViT-S/14** backbone with a custom **Enhanced Multi-Scale Decoder** (ASPP + progressive upsampling) to classify every pixel into one of 10 terrain classes.
